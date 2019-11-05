@@ -13,7 +13,7 @@ spl [options] file
 ```
         
 ## Why?
-It is mainly used to play dictionary sounds.
+It is mainly used to play [dictionary](https://github.com/takiz/tuidict) sounds.
 
 ## Used libraries
 
